@@ -1,1 +1,1 @@
-# This project is dog's BCS classification.
+This project is dog's BCS classification.
