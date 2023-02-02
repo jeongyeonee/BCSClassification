@@ -1,1 +1,3 @@
-This project is dog's BCS classification.
+# Classification
+
+This project is dog's body condition score classification.
